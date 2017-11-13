@@ -1,4 +1,4 @@
-OTRS Telegram Integration Bot
+SuperLunaBot
 ==============================
 
 # Usage
